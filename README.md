@@ -60,7 +60,7 @@ func main() {
 </pre>
 <pre>
 $ go install github.com/lanlove/hello
-<pre>
+</pre>
 這樣會 compile 一隻 hello 執行檔到 {filename}/bin/ 裡
 
 第一步就完成惹～恭喜恭喜
